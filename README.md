@@ -4,10 +4,13 @@
 
 ### Temas:
   - Control de versiones
+      - Git, SVN, Bazaar
   - Triggers
-  - AutomatizaciÃ³n
+      - Jenkins, Travis
+  - Automatización
+      - Gradle, Rake, Maven
 
-BibliografÃ­a:
+Bibliografía:
   - Git in practice
 
 Temas alternos:

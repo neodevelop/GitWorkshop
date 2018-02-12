@@ -9,3 +9,6 @@
 
 Bibliografía:
   - Git in practice
+
+Temas alternos:
+  - XP

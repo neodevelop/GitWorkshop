@@ -7,8 +7,11 @@
   - Triggers
   - Automatización
 
-Bibliografía:
+### Bibliografía: 
   - Git in practice
 
-Temas alternos:
+### Temas alternos:
   - XP
+  - Kanban
+  - Seguridad y criptografa
+  - Sistemas operativos

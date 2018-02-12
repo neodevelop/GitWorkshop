@@ -1,5 +1,8 @@
 # Hola inmundo!!!
 
-Bienvenido al workshop de CI
+Bienvenido al workshop de Continuous Integration
 
-Todo bien!!
+Temas:
+  - Control de versiones
+  - Triggers
+  - Automatización

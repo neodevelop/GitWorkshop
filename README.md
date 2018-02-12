@@ -1,8 +1,8 @@
-# Hola inmundo!!!
+# Hola Mundo!
 
 ## Bienvenido al workshop de Continuous Integration
 
-Temas:
+### Temas:
   - Control de versiones
   - Triggers
   - Automatización
